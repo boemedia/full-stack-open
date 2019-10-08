@@ -1,1 +1,0 @@
-Not really, but finding out how Git works inside of VSC!
